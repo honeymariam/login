@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+}
+.log{
+    
+    width: 100%;
+text-align: center;
+font-size: 22px;
+color: #1e4c76;
+    padding-top:100px;
+    height:550px;
+/*    padding-left: 50px;*/
+    
+     
+}
+
+.log div img{
+    border-radius:100%;
+    width: 200px;
+    }
+.log div button{
+    background-color: #1e4c76;
+    font-size: 20px;
+    border-radius: 12px;
+    width: 180px;
+    height: 50px;
+}
+.log div a{
+    text-decoration: none;
+    color: #1e4c76;
+}
+.reg{
+    color:#1e4c76;
+    
+    width: 100%;
+text-align: center;
+font-size: 22px;
+
+    padding-top:100px;
+    height:450px;
+    
+}
+.reg div button{
+    background-color: #1e4c76;
+    font-size: 20px;
+    border-radius: 12px;
+    width: 180px;
+    height: 50px;
+    
+}
+.welcome{
+    background-color: dodgerblue;
+    text-align: center;
+    font-size: 60px;
+    padding: 100px;
+    height: 450px;
+}
